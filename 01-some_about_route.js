@@ -37,8 +37,8 @@ app.listen(3000);
 
 //把//next()的备注斜杠去掉，再次刷新页面，观看后台，能看见
 
-#first ask
-#second ask
+//first ask
+//second ask
 //但是同时还有报错
-#Can't set headers after they are sent.
+//Can't set headers after they are sent.
 //字面意思，页面内容已经发送过后无法再发送
